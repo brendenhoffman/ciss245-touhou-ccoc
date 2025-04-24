@@ -1,0 +1,93 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/include/SDL",
+      "-D_GNU_SOURCE=1",
+      "-D_REENTRANT",
+      "-Iincludes",
+      "main.cpp"
+    ],
+    "directory": "/home/brenden/Documents/Code/p01/touhou",
+    "file": "/home/brenden/Documents/Code/p01/touhou/main.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/include/SDL",
+      "-D_GNU_SOURCE=1",
+      "-D_REENTRANT",
+      "-Iincludes",
+      "src/Bullet.cpp"
+    ],
+    "directory": "/home/brenden/Documents/Code/p01/touhou",
+    "file": "/home/brenden/Documents/Code/p01/touhou/src/Bullet.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/include/SDL",
+      "-D_GNU_SOURCE=1",
+      "-D_REENTRANT",
+      "-Iincludes",
+      "src/Image.cpp"
+    ],
+    "directory": "/home/brenden/Documents/Code/p01/touhou",
+    "file": "/home/brenden/Documents/Code/p01/touhou/src/Image.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/include/SDL",
+      "-D_GNU_SOURCE=1",
+      "-D_REENTRANT",
+      "-Iincludes",
+      "src/Player.cpp"
+    ],
+    "directory": "/home/brenden/Documents/Code/p01/touhou",
+    "file": "/home/brenden/Documents/Code/p01/touhou/src/Player.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/include/SDL",
+      "-D_GNU_SOURCE=1",
+      "-D_REENTRANT",
+      "-Iincludes",
+      "src/SingletonSurface.cpp"
+    ],
+    "directory": "/home/brenden/Documents/Code/p01/touhou",
+    "file": "/home/brenden/Documents/Code/p01/touhou/src/SingletonSurface.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/include/SDL",
+      "-D_GNU_SOURCE=1",
+      "-D_REENTRANT",
+      "-Iincludes",
+      "src/Surface.cpp"
+    ],
+    "directory": "/home/brenden/Documents/Code/p01/touhou",
+    "file": "/home/brenden/Documents/Code/p01/touhou/src/Surface.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/include/SDL",
+      "-D_GNU_SOURCE=1",
+      "-D_REENTRANT",
+      "-Iincludes",
+      "src/SDL_gfxPrimitives.c"
+    ],
+    "directory": "/home/brenden/Documents/Code/p01/touhou",
+    "file": "/home/brenden/Documents/Code/p01/touhou/src/SDL_gfxPrimitives.c"
+  }
+]
